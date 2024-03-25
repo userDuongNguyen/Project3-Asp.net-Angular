@@ -1,0 +1,6 @@
+@AngularReProject.Server_HostAddress = http://localhost:5101
+
+GET {{AngularReProject.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

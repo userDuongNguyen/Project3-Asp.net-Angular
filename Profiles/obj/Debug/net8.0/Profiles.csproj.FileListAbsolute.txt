@@ -1,0 +1,15 @@
+D:\dumpdata\AngularReProject\Profiles\bin\Debug\net8.0\Profiles.deps.json
+D:\dumpdata\AngularReProject\Profiles\bin\Debug\net8.0\Profiles.dll
+D:\dumpdata\AngularReProject\Profiles\bin\Debug\net8.0\Profiles.pdb
+D:\dumpdata\AngularReProject\Profiles\bin\Debug\net8.0\Domain.dll
+D:\dumpdata\AngularReProject\Profiles\bin\Debug\net8.0\Domain.pdb
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\Profiles.csproj.AssemblyReference.cache
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\Profiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\Profiles.AssemblyInfoInputs.cache
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\Profiles.AssemblyInfo.cs
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\Profiles.csproj.CoreCompileInputs.cache
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\Profiles.csproj.Up2Date
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\Profiles.dll
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\refint\Profiles.dll
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\Profiles.pdb
+D:\dumpdata\AngularReProject\Profiles\obj\Debug\net8.0\ref\Profiles.dll

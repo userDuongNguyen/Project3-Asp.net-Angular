@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j67vQ70Yvgzn35v0Z/setbJLLoIUYaKDcc8skYNdCz2ZMMZyrrFyIla894IpgVC5L0rlorTOeaaxWsIb9z2zCg==",
+  "success": true,
+  "projectFilePath": "D:\\dumpdata\\AngularReProject\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duong\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
