@@ -1,15 +1,17 @@
-﻿using Domain.SeedWork;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Entities
 {
-    public class ContactMessage : IAggregateRoot
+    [Table("ContactMessage")]
+    public class ContactMessage
     {
-        public required Guid Id { get; set; }
+        public int Id { get; set; }
         public string? Name { get; set; }
         public string? Email { get; set; }
         public string? Phone { get; set; }
         public string? Description { get; set; }
-        public Agent? Agent { get; set; }
+        [ForeignKey(nameof(Agent))]
+        public int AgentId { get; set; }
 
 
     }

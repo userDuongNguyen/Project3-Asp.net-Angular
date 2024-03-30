@@ -1,0 +1,4 @@
+D:\dumpdata\AngularApp\Exception\obj\Debug\net8.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\dumpdata\AngularApp\Exception\obj\Debug\net8.0\Exception.AssemblyInfoInputs.cache
+D:\dumpdata\AngularApp\Exception\obj\Debug\net8.0\Exception.AssemblyInfo.cs
+D:\dumpdata\AngularApp\Exception\obj\Debug\net8.0\Exception.csproj.CoreCompileInputs.cache

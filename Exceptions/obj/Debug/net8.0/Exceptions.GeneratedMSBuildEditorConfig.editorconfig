@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exceptions
-build_property.ProjectDir = D:\dumpdata\AngularReProject\Exceptions\
+build_property.ProjectDir = D:\dumpdata\AngularApp\Exceptions\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

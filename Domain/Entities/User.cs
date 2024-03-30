@@ -1,17 +1,24 @@
 ﻿using Domain.SeedWork;
+using System.ComponentModel.DataAnnotations.Schema;
 
 
 namespace Domain.Entities
 {
-    public class User : IAggregateRoot
+    [Table("User")]
+    public class User
     {
-        public Guid Id { get; set; }
-        public ContactDetail? ContactDetail { get; set; }
-        public Guid ContactDetailId { get; set; }
-        public string? Password { get; set; }
+        public int Id { get; set; }
+        [ForeignKey(nameof(ContactDetail))]
+        public int ContactDetailId { get; set; }
+        public virtual ContactDetail? ContactDetails { get; set; }
+        public required string Email { get; set; }
+        public required string Password { get; set; }
         public virtual AgentRole? AgentRole { get; set; }
-        public Wallet? Wallet { get; set; }
-        public virtual List<Subcription>? Subcriptions { get; set; }
+        [ForeignKey(nameof(Wallet))]
+        public int WalletId { get; set; }
+        public virtual Wallet? WalletDetail { get; set; }
+        [ForeignKey(nameof(Subcription))]
+        public virtual ICollection<Subcription>? Subcriptions { get; set; }
 
     }
 }

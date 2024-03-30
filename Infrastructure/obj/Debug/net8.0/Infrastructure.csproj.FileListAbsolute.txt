@@ -1,0 +1,15 @@
+D:\dumpdata\AngularApp\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\dumpdata\AngularApp\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\dumpdata\AngularApp\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\dumpdata\AngularApp\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\dumpdata\AngularApp\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\dumpdata\AngularApp\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

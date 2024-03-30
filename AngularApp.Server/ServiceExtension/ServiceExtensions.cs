@@ -1,0 +1,29 @@
+﻿using Contracts.RepositoryInterfaces;
+using Domain.Contracts;
+using Infrastructure.Logger;
+using Infrastructure.Repository;
+
+
+namespace AngularApp.Server.ServiceExtension
+{
+    public static class ServiceExtensions
+    {
+        public static void ConfigureCors(this IServiceCollection services)
+        {
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader());
+            });
+        }
+        public static void ConfigureLoggerService(this IServiceCollection services)
+        {
+            services.AddSingleton<ILoggerManager, LoggerManager>();
+        }
+        public static void ConfigureRepositoryWrapper(this IServiceCollection services)
+            => services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
+    }
+}
+

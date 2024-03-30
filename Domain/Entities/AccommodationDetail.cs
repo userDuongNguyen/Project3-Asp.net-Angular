@@ -5,11 +5,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Domain.Entities
 {
     [Table("AccommodationDetail")]
-    public class AccommodationDetail : IAggregateRoot
+    public class AccommodationDetail
     {
 #nullable enable
-        public required Guid Id { get; set; }
-        public virtual List<LivingDetail>? LivingDetails { get; set; }
+        public required int Id { get; set; }
+        public virtual ICollection<LivingDetail>? LivingDetails { get; set; }
         public virtual Facility? Facility { get; set; }
         public virtual PetAllowance? PetAllowance { get; set; }
         public virtual HeatingType? HeatingType { get; set; }

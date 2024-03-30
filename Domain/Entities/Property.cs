@@ -1,14 +1,20 @@
 ﻿using Domain.SeedWork;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Entities
 {
-    public class Property : IAggregateRoot
+    [Table("Property")]
+    public class Property
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public virtual PropertyType? PropertyType { get; set; }
         public DateTime? VacantTime { get; set; }
-        public virtual Address? Address { get; set; }
-        public virtual AccommodationDetail? AccommodationDetail { get; set; }
+        [ForeignKey(nameof(Address))]
+        public int? AddressId { get; set; }
+        public virtual Address? AddressDetail { get; set; }
+        [ForeignKey(nameof(AccommodationDetail))]
+        public int? AccommodationDetailId { get; set; }
+        public virtual AccommodationDetail? AccommodationDetails { get; set; }
 
     }
 }

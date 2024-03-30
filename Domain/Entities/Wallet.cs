@@ -1,10 +1,11 @@
-﻿using Domain.SeedWork;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Entities
 {
-    public class Wallet : IAggregateRoot
+    [Table("Wallet")]
+    public class Wallet
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public float Balance { get; set; }
 
     }

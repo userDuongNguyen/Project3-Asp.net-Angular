@@ -1,10 +1,12 @@
 ﻿using Domain.SeedWork;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Entities
 {
-    public class Subcription : IAggregateRoot
+    [Table("Subcription")]
+    public class Subcription
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public virtual SubcriptionPack? SubcriptionPack { get; set; }
         public virtual DateTime? SubcriptionDate { get; set; }
         public int SubcriptionDuration { get; set; }

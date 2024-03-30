@@ -1,14 +1,13 @@
-﻿using Domain.SeedWork;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Entities
 {
     [Table("Address")]
-    public class Address : IAggregateRoot
+    public class Address
     {
 
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         [Required(ErrorMessage = "Street must not be null")]
         public required string Street { get; set; }
         [Required(ErrorMessage = "City must not be null")]

@@ -1,10 +1,12 @@
 ﻿using Domain.SeedWork;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Entities
 {
-    public class ContactDetail : IAggregateRoot
+    [Table("ContactDetail")]
+    public class ContactDetail
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public virtual Salutation? Salutation { get; set; }
         public string? FirstName { get; set; }
         public string? LastName { get; set; }

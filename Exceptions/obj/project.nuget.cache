@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GmfC34NW8qfgJQaOL0se0bpkfG3oc81bU2x6ocH5LwhU9HXKJbhsc0yR+1s/SdNB2vE60rEpC15HPWFGnxxqcA==",
+  "dgSpecHash": "tuMcprjGx6YANZyC7iSmmRX+dO4dnLEBbXVrtjQNBDa6oGytjbyHWVekp2wTOppQt6BQq93t7ZNS9lQaTs+ktQ==",
   "success": true,
-  "projectFilePath": "D:\\dumpdata\\AngularReProject\\Exceptions\\Exceptions.csproj",
+  "projectFilePath": "D:\\dumpdata\\AngularApp\\Exceptions\\Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

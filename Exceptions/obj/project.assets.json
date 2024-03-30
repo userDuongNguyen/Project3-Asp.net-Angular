@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dumpdata\\AngularReProject\\Exceptions\\Exceptions.csproj",
+      "projectUniqueName": "D:\\dumpdata\\AngularApp\\Exceptions\\Exceptions.csproj",
       "projectName": "Exceptions",
-      "projectPath": "D:\\dumpdata\\AngularReProject\\Exceptions\\Exceptions.csproj",
+      "projectPath": "D:\\dumpdata\\AngularApp\\Exceptions\\Exceptions.csproj",
       "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-      "outputPath": "D:\\dumpdata\\AngularReProject\\Exceptions\\obj\\",
+      "outputPath": "D:\\dumpdata\\AngularApp\\Exceptions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
