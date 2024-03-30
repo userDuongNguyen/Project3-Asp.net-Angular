@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "D:\\dumpdata\\AngularApp\\AngularApp.Server\\..\\angularapp.client",
+"WorkingDirectory": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\AngularApp.Server\\..\\angularapp.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

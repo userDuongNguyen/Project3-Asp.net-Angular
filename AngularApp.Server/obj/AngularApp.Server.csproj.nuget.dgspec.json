@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dumpdata\\AngularApp\\AngularApp.Server\\AngularApp.Server.csproj": {}
+    "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\AngularApp.Server\\AngularApp.Server.csproj": {}
   },
   "projects": {
-    "D:\\dumpdata\\AngularApp\\AngularApp.Server\\AngularApp.Server.csproj": {
+    "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\AngularApp.Server\\AngularApp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dumpdata\\AngularApp\\AngularApp.Server\\AngularApp.Server.csproj",
+        "projectUniqueName": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\AngularApp.Server\\AngularApp.Server.csproj",
         "projectName": "AngularApp.Server",
-        "projectPath": "D:\\dumpdata\\AngularApp\\AngularApp.Server\\AngularApp.Server.csproj",
+        "projectPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\AngularApp.Server\\AngularApp.Server.csproj",
         "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-        "outputPath": "D:\\dumpdata\\AngularApp\\AngularApp.Server\\obj\\",
+        "outputPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\AngularApp.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dumpdata\\AngularApp\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\dumpdata\\AngularApp\\Domain\\Domain.csproj"
+              "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\Domain.csproj"
               },
-              "D:\\dumpdata\\AngularApp\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\dumpdata\\AngularApp\\Infrastructure\\Infrastructure.csproj"
+              "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -60,6 +60,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             },
             "Microsoft.AspNetCore.SpaProxy": {
               "target": "Package",
@@ -85,7 +89,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -111,14 +115,14 @@
         }
       }
     },
-    "D:\\dumpdata\\AngularApp\\Domain\\Domain.csproj": {
+    "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dumpdata\\AngularApp\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\dumpdata\\AngularApp\\Domain\\Domain.csproj",
+        "projectPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-        "outputPath": "D:\\dumpdata\\AngularApp\\Domain\\obj\\",
+        "outputPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,14 +190,14 @@
         }
       }
     },
-    "D:\\dumpdata\\AngularApp\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dumpdata\\AngularApp\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\dumpdata\\AngularApp\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-        "outputPath": "D:\\dumpdata\\AngularApp\\Infrastructure\\obj\\",
+        "outputPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -215,8 +219,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dumpdata\\AngularApp\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\dumpdata\\AngularApp\\Domain\\Domain.csproj"
+              "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\Domain.csproj"
               }
             }
           }

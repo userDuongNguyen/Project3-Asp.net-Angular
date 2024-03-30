@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tTPgJXww8pxInQJ4IcwZ0QXqQykiN1l7vU7yaDVoNRFvItxYFPb2wQ/NmJul8GNtH5jKWyAIuZQvJK2DKM5UGA==",
+  "dgSpecHash": "Q0P2eeMFhRklHCPnN9E6exk5xMwhJMcDLnAle1wJIZqdcp3sHeNTfLzB+6SIw2+d7P1KL5FToc8wDcQUQiBoCg==",
   "success": true,
-  "projectFilePath": "D:\\dumpdata\\AngularApp\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duong\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\duong\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

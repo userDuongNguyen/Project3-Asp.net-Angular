@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bDoX6D6/ZDuFsoxvAwGiqU34/KxstyVEWgj3SLJbF5yjmT3xDcijmR05Rr1tsm9suTFEpFc+7X0nUqhBMM9bfQ==",
+  "dgSpecHash": "9CZXBaNchq5uqxZEOPJ6i8ooPGdQ7PLS8RVhVjyX+0FpOPXqW/wwhCS8DJCXJqsHrpT3jhiXbUtdgqsEhW9QCw==",
   "success": true,
-  "projectFilePath": "D:\\dumpdata\\AngularApp\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\GitHub\\Project3\\Project3-Asp.net-Angular\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duong\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\duong\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
